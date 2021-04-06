@@ -1,0 +1,39 @@
+package org.apache.commons.mail;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
+import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.fail;
+
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+import javax.mail.MessagingException;
+import javax.mail.Session;
+import javax.mail.internet.InternetAddress;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class EmailTest {
+
+	private static final String[] TEST_EMAILS = { "ad@BVX.com", "aabcd@c.org", "GoDaddy@y.org" };
+	
+	private EmailConcrete email;
+	
+	@Before
+	public void setUpEmaiLTest() throws Exception {
+		email = new EmailConcrete();
+		
+	}
+	
+	@After
+	public void  tearDownEmailTest() throws Exception {
+		
+	}
+	
+	
+}

@@ -1,0 +1,431 @@
+2021-03-22 13:52:41,790 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-22 13:54:35,493 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.commons:commons-email:1.3.2 @ C:\Users\AvianC\eclipse-workspace_CIS376\commons-email-1.3.2-src\pom.xml.
+2021-03-22 13:54:35,923 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:54:35,926 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-22 13:54:35,937 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:54:35,939 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 13:54:36,423 [Worker-5: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.apache.commons:commons-email:1.3.2 @ C:\Users\AvianC\eclipse-workspace_CIS376\commons-email-1.3.2-src\pom.xml.
+2021-03-22 13:54:37,553 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:54:37,556 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-22 13:54:37,565 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:54:37,567 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 13:58:55,184 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:58:55,184 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 13:58:55,185 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:58:55,186 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 13:59:05,075 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:59:05,075 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-22 13:59:05,078 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 13:59:05,080 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:14:27,690 [Worker-5: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:14:27,690 [Worker-5: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:14:27,691 [Worker-5: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:14:27,695 [Worker-5: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:19:48,149 [Worker-18: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:19:48,149 [Worker-18: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:19:48,150 [Worker-18: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:19:48,152 [Worker-18: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:25:26,673 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:25:26,674 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:25:26,675 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:25:26,678 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:26:30,985 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:26:30,985 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:26:30,986 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:26:30,988 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:29:23,563 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:29:23,564 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:29:23,566 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:29:23,568 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:30:10,185 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:30:10,185 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:30:10,186 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:30:10,187 [Worker-34: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:32:12,239 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:32:12,240 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:32:12,241 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:32:12,242 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:36:05,871 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:36:05,872 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:36:05,874 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:36:05,876 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:37:34,547 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:37:34,548 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:37:34,548 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:37:34,550 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:39:18,306 [Worker-37: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:39:18,306 [Worker-37: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:39:18,307 [Worker-37: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:39:18,309 [Worker-37: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:40:02,280 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:40:02,280 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:40:02,280 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:40:02,282 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:40:42,047 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:40:42,047 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:40:42,048 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:40:42,050 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:41:03,745 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:41:03,746 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:41:03,747 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:41:03,749 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:41:18,526 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:41:18,527 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:41:18,527 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:41:18,529 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:43:33,971 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:43:33,972 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:43:33,973 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:43:33,975 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:44:18,731 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:44:18,731 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:44:18,732 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:44:18,734 [Worker-31: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:45:20,492 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:45:20,492 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:45:20,493 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:45:20,495 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:48:31,545 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:48:31,545 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:48:31,546 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:48:31,549 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:50:51,564 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:50:51,564 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:50:51,565 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:50:51,567 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:51:30,010 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:51:30,010 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:51:30,010 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:51:30,012 [Worker-38: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:56:16,983 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:56:16,983 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:56:16,984 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:56:16,986 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 14:59:49,208 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:59:49,208 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 14:59:49,209 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 14:59:49,211 [Worker-36: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 15:01:57,967 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:01:57,968 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 15:01:57,968 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:01:57,970 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 15:02:40,473 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:02:40,474 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 15:02:40,475 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:02:40,477 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 15:03:04,534 [Worker-32: Launching EmailTest.testAddHeaderEmptyName] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:03:04,534 [Worker-32: Launching EmailTest.testAddHeaderEmptyName] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 15:03:04,535 [Worker-32: Launching EmailTest.testAddHeaderEmptyName] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:03:04,537 [Worker-32: Launching EmailTest.testAddHeaderEmptyName] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 15:03:33,423 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:03:33,424 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 15:03:33,424 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:03:33,426 [Worker-18: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 15:03:50,391 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:03:50,392 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 15:03:50,392 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:03:50,394 [Worker-35: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 15:04:38,775 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:04:38,776 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 15:04:38,777 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 15:04:38,779 [Worker-32: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 19:45:56,719 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-22 19:52:13,542 [Worker-9: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 19:52:13,546 [Worker-9: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-22 19:52:13,551 [Worker-9: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 19:52:13,552 [Worker-9: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:23:49,176 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:23:49,181 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:23:49,183 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:23:49,190 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:24:31,189 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:24:31,189 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:24:31,190 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:24:31,192 [Worker-50: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:30:10,906 [Worker-49: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:30:10,906 [Worker-49: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:30:10,908 [Worker-49: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:30:10,911 [Worker-49: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:32:03,092 [Worker-48: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:32:03,092 [Worker-48: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:32:03,093 [Worker-48: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:32:03,097 [Worker-48: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:36:54,643 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:36:54,644 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:36:54,645 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:36:54,648 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:45:35,335 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:45:35,336 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:45:35,336 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:45:35,339 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:46:29,527 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:46:29,527 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:46:29,529 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:46:29,531 [Worker-53: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:47:40,264 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:47:40,265 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:47:40,265 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:47:40,268 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:53:00,344 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:53:00,344 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:53:00,345 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:53:00,347 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:53:21,327 [Worker-56: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:53:21,327 [Worker-56: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:53:21,328 [Worker-56: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:53:21,330 [Worker-56: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:54:53,779 [Worker-58: Launching EmailTest.testBuildMimeMessage] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:54:53,779 [Worker-58: Launching EmailTest.testBuildMimeMessage] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:54:53,780 [Worker-58: Launching EmailTest.testBuildMimeMessage] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:54:53,783 [Worker-58: Launching EmailTest.testBuildMimeMessage] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:55:29,109 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:55:29,109 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:55:29,110 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:55:29,113 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:58:30,524 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:58:30,524 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:58:30,525 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:58:30,527 [Worker-57: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 21:59:38,055 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:59:38,055 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 21:59:38,056 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 21:59:38,057 [Worker-60: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:20:35,624 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:20:35,624 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:20:35,625 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:20:35,628 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:21:08,296 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:21:08,296 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:21:08,297 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:21:08,299 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:29:21,693 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:29:21,694 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:29:21,695 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:29:21,698 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:30:01,074 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:30:01,074 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:30:01,075 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:30:01,077 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:30:23,459 [Worker-65: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:30:23,459 [Worker-65: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:30:23,460 [Worker-65: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:30:23,463 [Worker-65: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:32:14,887 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:32:14,887 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:32:14,888 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:32:14,890 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:34:17,583 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:34:17,583 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:34:17,584 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:34:17,587 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:35:44,485 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:35:44,485 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:35:44,485 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:35:44,488 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:37:25,986 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:37:25,986 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:37:25,987 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:37:25,989 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:38:21,242 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:38:21,242 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:38:21,243 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:38:21,245 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:40:52,412 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:40:52,412 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:40:52,413 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:40:52,416 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:41:10,893 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:41:10,893 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:41:10,894 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:41:10,896 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:42:34,176 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:42:34,176 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:42:34,177 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:42:34,179 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:43:29,673 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:43:29,673 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:43:29,674 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:43:29,676 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:43:39,804 [Worker-75: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:43:39,805 [Worker-75: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:43:39,805 [Worker-75: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:43:39,807 [Worker-75: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:44:15,251 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:44:15,252 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:44:15,252 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:44:15,254 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:45:08,442 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:45:08,442 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:45:08,443 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:45:08,445 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:46:54,666 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:46:54,666 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:46:54,667 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:46:54,669 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:48:47,944 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:48:47,944 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:48:47,945 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:48:47,947 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:50:35,525 [Worker-70: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:50:35,525 [Worker-70: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:50:35,526 [Worker-70: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:50:35,528 [Worker-70: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:54:26,738 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:54:26,738 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:54:26,739 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:54:26,742 [Worker-71: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 22:56:33,316 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:56:33,316 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 22:56:33,317 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 22:56:33,319 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:00:50,357 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:00:50,357 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:00:50,358 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:00:50,362 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:02:20,736 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:02:20,736 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:02:20,737 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:02:20,740 [Worker-73: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:03:43,008 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:03:43,008 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:03:43,008 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:03:43,010 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:06:19,279 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:06:19,279 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:06:19,280 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:06:19,282 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:08:00,937 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:08:00,937 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:08:00,938 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:08:00,939 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:09:23,166 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:09:23,167 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:09:23,168 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:09:23,171 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:10:24,002 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:10:24,003 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:10:24,003 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:10:24,006 [Worker-72: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:31:07,313 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:31:07,313 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:31:07,313 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:31:07,316 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:32:48,928 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:32:48,928 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:32:48,929 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:32:48,931 [Worker-70: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:33:13,006 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:33:13,006 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:33:13,007 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:33:13,009 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:34:52,124 [Worker-76: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:34:52,125 [Worker-76: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:34:52,125 [Worker-76: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:34:52,128 [Worker-76: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:35:43,428 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:35:43,428 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:35:43,429 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:35:43,431 [Worker-77: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:36:00,364 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:36:00,364 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:36:00,365 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:36:00,367 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:37:10,389 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:37:10,389 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:37:10,390 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:37:10,393 [Worker-65: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:50:16,262 [Worker-81: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:50:16,262 [Worker-81: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:50:16,263 [Worker-81: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:50:16,265 [Worker-81: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:50:47,129 [Worker-83: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:50:47,129 [Worker-83: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:50:47,130 [Worker-83: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:50:47,132 [Worker-83: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:51:43,313 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:51:43,313 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:51:43,314 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:51:43,316 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:54:22,474 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:54:22,474 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:54:22,475 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:54:22,478 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:55:34,704 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:55:34,705 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:55:34,705 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:55:34,707 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:57:49,947 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:57:49,947 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:57:49,948 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:57:49,950 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:59:01,834 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:59:01,835 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:59:01,835 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:59:01,837 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-22 23:59:45,935 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:59:45,935 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-22 23:59:45,936 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-22 23:59:45,938 [Worker-81: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:00:15,336 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:00:15,336 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:00:15,336 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:00:15,339 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:01:04,673 [Worker-83: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:01:04,674 [Worker-83: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:01:04,674 [Worker-83: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:01:04,677 [Worker-83: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:10:10,188 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:10:10,188 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:10:10,189 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:10:10,192 [Worker-85: Launching commons-email-1.3.2-src] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:11:03,047 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:11:03,048 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:11:03,048 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:11:03,051 [Worker-67: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:12:33,938 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:12:33,938 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:12:33,940 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:12:33,942 [Worker-85: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:13:12,012 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:13:12,012 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:13:12,013 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:13:12,015 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:17:16,639 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:17:16,639 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:17:16,640 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:17:16,642 [Worker-78: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:19:46,064 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:19:46,065 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:19:46,066 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:19:46,070 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:19:54,939 [Worker-90: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:19:54,939 [Worker-90: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:19:54,939 [Worker-90: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:19:54,941 [Worker-90: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:20:58,357 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:20:58,357 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:20:58,358 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:20:58,361 [Worker-84: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:25:44,864 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:25:44,864 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:25:44,864 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:25:44,866 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:25:56,036 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:25:56,036 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:25:56,037 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:25:56,038 [Worker-89: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:34:26,769 [Worker-93: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:34:26,770 [Worker-93: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:34:26,771 [Worker-93: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:34:26,774 [Worker-93: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:34:44,001 [Worker-94: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:34:44,001 [Worker-94: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:34:44,002 [Worker-94: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:34:44,005 [Worker-94: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-23 00:36:19,251 [Worker-95: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:36:19,252 [Worker-95: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-23 00:36:19,252 [Worker-95: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-23 00:36:19,254 [Worker-95: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-04-05 23:47:15,144 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-06 00:08:34,575 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-06 00:13:26,596 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
