@@ -179,20 +179,5 @@ public class EmailTest {
 			assertEquals(null, email.getHostName());
 			
 	  }
-	  
-	  //Test 7.0 - Session getMailSession()
-	  //Will fail cause mail session isn't set
-	  @Test ( expected = Exception.class)
-	  public void testGetMailSessionFail() throws Exception {
-			Session aSession = null;
-			String testTempHostEmail = "Aviaan@c.org";
-			
-			email.createMimeMessage(aSession);
-			email.getMailSession();
-			String expectedMessage = "Cannot find valid hostname for mail session";
-			
-			assertTrue(expectedMessage,true);
-			
-	  }
 	
 }
