@@ -225,16 +225,5 @@ public class EmailTest {
 			assertEquals(testTime,email.getSocketConnectionTimeout());
 			
 	  }
-	  
-	  //Test 10.0		
-	  @Test 
-	  public void testSetFrom() throws Exception {
-			
-			String testTempHostEmail = "aabcd@c.org";
-			email.setFrom(testTempHostEmail);
-			
-			assertEquals("aabcd@c.org",email.getFromAddress().toString());
-			
-	  }
 	
 }
