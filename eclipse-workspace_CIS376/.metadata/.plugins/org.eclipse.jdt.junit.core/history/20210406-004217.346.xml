@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="EmailTest" project="commons-email-1.3.2-src" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="org.apache.commons.mail.EmailTest" time="0.006">
-    <testcase name="testAddCC" classname="org.apache.commons.mail.EmailTest" time="0.006"/>
-    <testcase name="testAddBcc" classname="org.apache.commons.mail.EmailTest" time="0.0"/>
-  </testsuite>
-</testrun>

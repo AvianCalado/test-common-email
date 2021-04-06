@@ -95,16 +95,5 @@ public class EmailTest {
 		assertTrue(expectedMessage, true);
 	}
 	
-	//Test 4.0 - Email  addReplyTo(String email, String name)
-	@Test 
-	public void testAddReplyTo() throws Exception {
-		
-		email.addBcc(TEST_EMAILS);
-		Email temp = email.addReplyTo("aabcd@c.org","Baron");
-		 
-		assertEquals(temp.getReplyToAddresses(),email.getReplyToAddresses());
-		
-	}
-	
 	
 }
