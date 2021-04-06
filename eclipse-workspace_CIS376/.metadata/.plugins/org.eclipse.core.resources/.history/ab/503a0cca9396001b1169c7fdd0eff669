@@ -106,54 +106,5 @@ public class EmailTest {
 		
 	}
 	
-	//Test 5.0 - void     buildMimeMessage()
-	// Throws an exception because connection fails.
-	@Test ( expected = EmailException.class)
-	public void testBuildMimeMessage() throws Exception {
-		email.addBcc(TEST_EMAILS);
-		
-		String testAddCCEmail = "Aviaan@c.org";
-		final String testName = "Avian";
-		final String testValue = "Hiya";
-		
-		//Fill out the message fields and connections
-		email.addHeader(testName, testValue);
-		email.addCc(testAddCCEmail);
-		email.addReplyTo("ad@BVX.com","Baron");
-		email.setFrom("aabcd@c.org");
-		email.addTo("GoDaddy@y.org");
-		email.setSubject("Create a website");
-		email.setPopBeforeSmtp(true, "ad@BVX.com", testName, testValue);
-		email.setBounceAddress("GoDaddy@y.org");
-		
-		
-		Session aSession = null;
-		email.createMimeMessage(aSession);
-		email.setHostName(testAddCCEmail);
-		email.buildMimeMessage();
-
-		String expectedMessage = "Connect failed";
-
-		assertTrue(expectedMessage, true); 
-		
-	}
-	
-	
-	
-	  //Test 5.1 - void     buildMimeMessage()
-	//Test will fail because address is required
-	  @Test ( expected = EmailException.class)
-	  public void testBuildMimeMessageFail() throws Exception {
-			Session aSession = null;
-			String testTempEmail = "Aviaan@c.org";
-			
-			email.createMimeMessage(aSession);
-			email.setHostName(testTempEmail);
-			email.buildMimeMessage();
-			String expectedMessage = "From address required";
-
-			assertTrue(expectedMessage, true);
-	  }
-	
 	
 }
