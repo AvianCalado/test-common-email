@@ -82,17 +82,5 @@ public class EmailTest {
 		
 	}
 	
-	//Test 3.2- void     addHeader(String name, String value)
-	@Test ( expected = IllegalArgumentException.class)
-	public void testAddHeaderEmptyValue() throws Exception {
-		final String testName = "Avian";
-		
-		email.addHeader(testName, "");
-
-		String expectedMessage = "name can not be null or empty";
-		
-		assertTrue(expectedMessage, true);
-	}
-	
 	
 }
