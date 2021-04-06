@@ -151,19 +151,5 @@ public class EmailTest {
 
 			assertTrue(expectedMessage, true);
 	  }
-	  
-	  //Test 6.0 - String  getHostName()	
-	  //
-	  @Test 
-	  public void testGetHostName() throws Exception {
-			Session aSession = null;
-			String testTempHostEmail = "Aviaan@c.org";
-			
-			email.createMimeMessage(aSession);
-			
-			email.setHostName(testTempHostEmail);
-
-			assertEquals("Aviaan@c.org", email.getHostName());
-	  }
 	
 }
