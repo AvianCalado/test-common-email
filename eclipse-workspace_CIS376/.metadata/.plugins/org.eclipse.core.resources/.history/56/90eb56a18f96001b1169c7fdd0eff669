@@ -35,15 +35,5 @@ public class EmailTest {
 		
 	}
 	
-	//Test 1.0- Email  addBcc(String... emails)
-	@Test
-	public void testAddBcc() throws Exception {
-		
-		email.addBcc(TEST_EMAILS);
-		
-		assertEquals(3,email.getBccAddresses().size());
-		
-	}
-	
 	
 }
