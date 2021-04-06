@@ -45,16 +45,5 @@ public class EmailTest {
 		
 	}
 	
-	//Test 2.0- Email  addCc(String email)
-	@Test 
-	public void testAddCC() throws Exception {
-		email.addBcc(TEST_EMAILS);
-		String testAddCCEmail = "Aviaan@c.org";
-		email.addCc(testAddCCEmail);
-		
-		assertEquals(1,email.getCcAddresses().size());
-		
-	}
-	
 	
 }
