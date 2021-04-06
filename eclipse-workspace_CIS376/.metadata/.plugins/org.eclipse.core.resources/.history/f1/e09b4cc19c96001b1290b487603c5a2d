@@ -194,21 +194,5 @@ public class EmailTest {
 			assertTrue(expectedMessage,true);
 			
 	  }
-	  
-	  //Test 8.0 - Date    getSentDate()		
-	  @Test 
-	  public void testGetSentDate() throws Exception {
-			Session aSession = null;
-			String testTempHostEmail = "Aviaan@c.org";
-			
-			email.createMimeMessage(aSession);
-			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-			Date date = sdf.parse("2021-03-23") ;
-			
-			email.setSentDate(date);
-			
-			assertEquals(date,email.getSentDate());
-			
-	  }
 	
 }
