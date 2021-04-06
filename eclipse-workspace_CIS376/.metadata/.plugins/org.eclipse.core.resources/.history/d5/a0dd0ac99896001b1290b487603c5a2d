@@ -165,19 +165,5 @@ public class EmailTest {
 
 			assertEquals("Aviaan@c.org", email.getHostName());
 	  }
-	  
-	  //Test 6.1 - String  getHostName()
-	  // Will fail because setHostName isn't set
-	  @Test 
-	  public void testGetHostNameFail() throws Exception {
-			Session aSession = null;
-			String testTempHostEmail = "Aviaan@c.org";
-			
-			email.createMimeMessage(aSession);
-			
-			
-			assertEquals(null, email.getHostName());
-			
-	  }
 	
 }
