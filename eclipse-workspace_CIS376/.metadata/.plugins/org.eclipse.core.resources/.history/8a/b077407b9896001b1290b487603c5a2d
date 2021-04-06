@@ -137,19 +137,5 @@ public class EmailTest {
 		
 	}
 	
-	  //Test 5.1 - void     buildMimeMessage()
-	//Test will fail because address is required
-	  @Test ( expected = EmailException.class)
-	  public void testBuildMimeMessageFail() throws Exception {
-			Session aSession = null;
-			String testTempEmail = "Aviaan@c.org";
-			
-			email.createMimeMessage(aSession);
-			email.setHostName(testTempEmail);
-			email.buildMimeMessage();
-			String expectedMessage = "From address required";
-
-			assertTrue(expectedMessage, true);
-	  }
 	
 }
