@@ -56,44 +56,5 @@ public class EmailTest {
 		
 	}
 	
-	//Test 3.0- void     addHeader(String name, String value)
-	@Test
-	public void testAddHeader() throws Exception {
-		final String testName = "Avian";
-		final String testValue = "Hiya";
-		
-		
-		email.addHeader(testName, testValue);
-		
-		assertEquals(1,email.headers.size());
-	}
-	
-	//Test 3.1- void     addHeader(String name, String value)
-	// will expect an error to be thrown
-	@Test ( expected = IllegalArgumentException.class)
-	public void testAddHeaderEmptyName() throws Exception {
-		
-		final String testValue = "Hiya";
-		
-		email.addHeader("", testValue);
-		
-		String expectedMessage = "name can not be null or empty";
-
-		assertTrue(expectedMessage, true);
-		
-	}
-	
-	//Test 3.2- void     addHeader(String name, String value)
-	@Test ( expected = IllegalArgumentException.class)
-	public void testAddHeaderEmptyValue() throws Exception {
-		final String testName = "Avian";
-		
-		email.addHeader(testName, "");
-
-		String expectedMessage = "name can not be null or empty";
-		
-		assertTrue(expectedMessage, true);
-	}
-	
 	
 }
