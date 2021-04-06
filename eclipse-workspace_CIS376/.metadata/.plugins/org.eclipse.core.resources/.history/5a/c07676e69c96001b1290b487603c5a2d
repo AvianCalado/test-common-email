@@ -210,20 +210,5 @@ public class EmailTest {
 			assertEquals(date,email.getSentDate());
 			
 	  }
-	  
-	  //Test 9.0 - int        getSocketConnectionTimeout()	
-	  @Test 
-	  public void testGetSocketConnectionTimeout() throws Exception {
-			Session aSession = null;
-			String testTempHostEmail = "Aviaan@c.org";
-			int testTime = 4000;
-			
-			email.createMimeMessage(aSession);
-			email.setSocketConnectionTimeout(testTime);
-			
-			
-			assertEquals(testTime,email.getSocketConnectionTimeout());
-			
-	  }
 	
 }
