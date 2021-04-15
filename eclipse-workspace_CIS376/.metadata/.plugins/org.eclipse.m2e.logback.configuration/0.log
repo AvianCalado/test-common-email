@@ -438,3 +438,4 @@
 2021-04-06 01:27:32,568 [Worker-8: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-04-06 01:27:32,577 [Worker-8: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-04-06 01:27:32,579 [Worker-8: Launching EmailTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-04-14 21:49:56,930 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
